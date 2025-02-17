@@ -1,0 +1,226 @@
+[{
+  "_id": "giao thông",
+  "count": 44
+},{
+  "_id": "kỹ thuật viễn thông",
+  "count": 12
+},{
+  "_id": "quản lý tổng hợp tài nguyên nước",
+  "count": 3
+},{
+  "_id": "kỹ thuật điện tử",
+  "count": 28
+},{
+  "_id": "quản lý đất đai",
+  "count": 14
+},{
+  "_id": "công nghệ thực phẩm",
+  "count": 10
+},{
+  "_id": "kinh doanh bất động sản",
+  "count": 13
+},{
+  "_id": "nhiệt",
+  "count": 15
+},{
+  "_id": "địa lý",
+  "count": 1
+},{
+  "_id": "sức khỏe môi trường",
+  "count": 6
+},{
+  "_id": "giải phẫu học",
+  "count": 46
+},{
+  "_id": "toán",
+  "count": 31
+},{
+  "_id": "y tế công cộng",
+  "count": 122
+},{
+  "_id": "địa trắc",
+  "count": 23
+},{
+  "_id": "bản đồ và thông tin địa lý",
+  "count": 23
+},{
+  "_id": "khoa học quản lý",
+  "count": 23
+},{
+  "_id": "vật liệu",
+  "count": 11
+},{
+  "_id": "hoá học",
+  "count": 20
+},{
+  "_id": "cơ khí",
+  "count": 20
+},{
+  "_id": "truyền thông đa phương tiện",
+  "count": 141
+},{
+  "_id": "sức khỏe cộng đồng",
+  "count": 16
+},{
+  "_id": "mắt",
+  "count": 32
+},{
+  "_id": "cơ sở kỹ thuật hạ tầng",
+  "count": 2
+},{
+  "_id": "kinh tế nông nghiệp và phát triển nông thôn",
+  "count": 13
+},{
+  "_id": "thống kê y học & tin học",
+  "count": 12
+},{
+  "_id": "kinh tế y tế",
+  "count": 4
+},{
+  "_id": "địa chất khoáng sản và thăm dò",
+  "count": 1
+},{
+  "_id": "sinh học",
+  "count": 30
+},{
+  "_id": "kế hoạch và phát triển",
+  "count": 19
+},{
+  "_id": "y dược",
+  "count": 409
+},{
+  "_id": "vật liệu xây dựng",
+  "count": 1
+},{
+  "_id": "tài nguyên môi trường, địa chất",
+  "count": 1
+},{
+  "_id": "tài nguyên môi trường",
+  "count": 248
+},{
+  "_id": "tài nguyên nước",
+  "count": 17
+},{
+  "_id": "xây dựng",
+  "count": 44
+},{
+  "_id": "khoa học kỹ thuật",
+  "count": 208
+},{
+  "_id": "địa chất",
+  "count": 29
+},{
+  "_id": "thông tin vô tuyến",
+  "count": 17
+},{
+  "_id": "dịch tễ học",
+  "count": 14
+},{
+  "_id": "dân số",
+  "count": 3
+},{
+  "_id": "pháp luật",
+  "count": 1
+},{
+  "_id": "địa chất thủy văn",
+  "count": 1
+},{
+  "_id": "thủy văn",
+  "count": 5
+},{
+  "_id": "bảo hiểm",
+  "count": 44
+},{
+  "_id": "bất động sản",
+  "count": 29
+},{
+  "_id": "big data",
+  "count": 5
+},{
+  "_id": "địa chất thăm dò",
+  "count": 2
+},{
+  "_id": "hệ thống viễn thông",
+  "count": 10
+},{
+  "_id": "mạng viễn thông",
+  "count": 18
+},{
+  "_id": "vật lý",
+  "count": 30
+},{
+  "_id": "kinh tế",
+  "count": 519
+},{
+  "_id": "vô tuyến",
+  "count": 9
+},{
+  "_id": "công nghệ thông tin",
+  "count": 72
+},{
+  "_id": "tổ chức - quản lý y tế",
+  "count": 10
+},{
+  "_id": "dinh dưỡng và thực phẩm",
+  "count": 10
+},{
+  "_id": "kinh tế học",
+  "count": 318
+},{
+  "_id": "kinh tế đầu tư",
+  "count": 21
+},{
+  "_id": "chấn thương chỉnh hình",
+  "count": 56
+},{
+  "_id": "địa chất công trình - địa kỹ thuật",
+  "count": 2
+},{
+  "_id": "kỹ thuật tuyển khoáng",
+  "count": 2
+},{
+  "_id": "kinh tế và kinh doanh",
+  "count": 262
+},{
+  "_id": "địa kỹ thuật môi trường và gis",
+  "count": 1
+},{
+  "_id": "thủy lợi - tài nguyên nước",
+  "count": 1
+},{
+  "_id": "khí quyển",
+  "count": 1
+},{
+  "_id": "giáo dục sức khỏe - tâm lý y học",
+  "count": 16
+},{
+  "_id": "trầm tích",
+  "count": 1
+},{
+  "_id": "phẫu thuật lồng ngực - tim mạch",
+  "count": 22
+},{
+  "_id": "điện",
+  "count": 14
+},{
+  "_id": "nước và môi trường đô thị",
+  "count": 1
+},{
+  "_id": "khí tượng thủy văn",
+  "count": 18
+},{
+  "_id": "mỏ",
+  "count": 14
+},{
+  "_id": "ngoại tổng quát",
+  "count": 116
+},{
+  "_id": "thông tin quang",
+  "count": 10
+},{
+  "_id": "địa chất kỹ thuật và kỹ thuật tài nguyên nước dưới đất",
+  "count": 1
+},{
+  "_id": "thủy văn môi trường",
+  "count": 1
+}]
